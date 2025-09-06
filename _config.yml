@@ -1,9 +1,9 @@
 # Site settings
-title: Chitra Karki
-general_email: cbkarki55@gmail.com
-academic_email: cbkarki@miners.utep.edu
+title: "Chitra Karki"
+general_email: "cbkarki55@gmail.com"
+academic_email: "cbkarki@miners.utep.edu"
 
-description: > # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
 Data scientist passionate about robust methods, bioinformatics, and inspiring future researchers.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
@@ -11,8 +11,8 @@ baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 url: "https://cbkarki.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: https://github.com/cbkarki
-linkedin_username: www.linkedin.com/in/chitra-karki-180351171
+github_username: cbkarki
+linkedin_username: chitra-karki-180351171
 #facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
