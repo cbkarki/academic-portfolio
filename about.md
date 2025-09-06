@@ -13,7 +13,7 @@ models that can find reliable answers, even when the data isn't perfect. This he
 My research is focused on a few key areas:
 
 - **Building Stronger Machinge Learning Models**
-  I design new methods that are resistant to outliers and noise. In simple terms, I create tools that don't get thrown off by presence of unexpected data point, making predictions more reliable. My Ph.D. dissertaiton focuses on this challenge through a method, which I call **RobENetLog**, a flexible approach designed to handle contamination in both features nad responses, while also performing feature and observation selection. In its current phase, it is focused on binary classicifaction problems. Later, it will be generalized to address regression, and multiclass classification problems as well.
+  I design new methods that are resistant to outliers and noise. In simple terms, I create tools that don't get thrown off by presence of unexpected data point, making predictions more reliable. My Ph.D. dissertaiton focuses on this challenge through a method, which I call **RobENetLog**, a flexible approach designed to handle contamination in both features and responses, while also performing feature and observation selection. In its current phase, it is focused on binary classicifaction problems. Later, it will be generalized to address regression, and multiclass classification problems.
 
 - **Public Health and Environmental Data**
   I value collaboration and enjoy working across discplines. I partner with scientists in other fields, like Mosquito Ecology and Survillance Lab at UTEP, to help them make sense of their complex data. My role is to provide the data science expertise, building efficient statistical models they need to analyze their research on West Nile Virus. Together , our work
@@ -29,3 +29,6 @@ My research process is a simple, powerful cycle:
 3. Finally, I am committed to sharing that tools as open-source software so other scientists can use it, leading to new discoveries and, eventually, new problems for me to solve.
 
  The loop from application to innovation and back to the start is the main mechainsm of my work.
+
+ ## Intersted in collaborationg or learning more?
+ Feel free to explore my 
