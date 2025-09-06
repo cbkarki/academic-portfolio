@@ -3,7 +3,8 @@ title: "Chitra Karki"
 general_email: "cbkarki55@gmail.com"
 academic_email: "cbkarki@miners.utep.edu"
 
-description:  # this means to ignore newlines until "baseurl:"
+# desctiption supprots multi-line text
+description: > 
 Data scientist passionate about robust methods, bioinformatics, and inspiring future researchers.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
