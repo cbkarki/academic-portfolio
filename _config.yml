@@ -5,7 +5,7 @@ academic_email: "cbkarki@miners.utep.edu"
 
 # desctiption supprots multi-line text
 description: > 
-Data scientist passionate about robust methods, bioinformatics, and inspiring future researchers.
+  Data scientist passionate about robust methods, bioinformatics, and inspiring future researchers.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
