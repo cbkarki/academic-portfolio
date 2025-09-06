@@ -30,5 +30,5 @@ My research process is a simple, powerful cycle:
 
  The loop from application to innovation and back to the start is the main mechainsm of my work.
 
- ## Intersted in collaborationg or learning more?
- Feel free to explore my 
+ ## Intersted in collaborating or learning more?
+ Feel free to explore my  <a href="[/projects](https://scholar.google.com/citations?user=_iJLDyIAAAAJ&hl=en)">Publications</a> connect with me on  <a href="www.linkedin.com/in/chitra-karki-180351171">LinkedIn</a> or get in touch via <a href="/projects">Email</a>
