@@ -31,4 +31,4 @@ My research process is a simple, powerful cycle:
  The loop from application to innovation and back to the start is the main mechainsm of my work.
 
  ## Intersted in collaborating or learning more?
- Feel free to explore my  <a href="[/projects](https://scholar.google.com/citations?user=_iJLDyIAAAAJ&hl=en)">Publications</a> connect with me on  <a href="www.linkedin.com/in/chitra-karki-180351171">LinkedIn</a> or get in touch via <a href="/projects">Email</a>
+ Feel free to explore my  [Publications](https://scholar.google.com/citations?user=_iJLDyIAAAAJ&hl=en) connect with me on [LinkedIn](www.linkedin.com/in/chitra-karki-180351171) or get in touch via [Email](mailto:cbkarki@miners.utep.edu)
