@@ -22,6 +22,6 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 <ul>
 	<li><a href="researchprojects">Research Projects</a> - A list of Researh Pojects.</li>
 	<li><a href="dataprojects">Data Projects</a> - Data Science Piplines on real-world data.</li>
-	<li><a href="acadeimicprojects">Travel</a> - Education Prjects, demistifying complex concepts</li>
+	<li><a href="acadeimicprojects">Academic Projects</a> - Education Prjects, demistifying complex concepts</li>
 </ul>
 
