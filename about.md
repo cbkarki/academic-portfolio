@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile_cbkarki.jpeg" caption="The signal, not the noise" width=300 align="right" %}
 
 I believe the world is full of messy, imperfect data, and that's where the most interesting challenges lie. My work focuses on building robust statistical and machine learning
 models that can find reliable answers, even when the data isn't perfect. This helps scientists make new discoveries and solve critical problems in biology and public health.
