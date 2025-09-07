@@ -6,6 +6,13 @@
 
 - title: "Projects"
   href: "/projects/"
+  subcategories:
+    - subtitle: "Research Projects"
+      subherf: "/projects/researchporjects"
+    - subtitle: "Data Projects"
+      subherf: "/projects/dataprojects"
+    - subtitle: "Academic Projects"
+      subherf: "/projects/academicprojects"
 
 #- title: "Blog"
  # href: "/blog/"
