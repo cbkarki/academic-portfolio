@@ -35,7 +35,7 @@ Beyound my academic research, I also apply my data skills in a professional sett
 
 Using a combination of **R** for automation, **Excel** for detailed analysis, and **Power BI** for visualization, I design and build interactive dashboards that track key student success metrics like enrollment trends, graduation rates, and time to degree. One of my key projects involved automating data processing workflows, which imporved the efficiency of our reporting by over 70%. This work helps provide the Graduate School Dean and other leaders with the  timely data they need to make informed decisions. 
 
-## My data Science Process
+## My Data Science Process
 For me, data science isn't just about the final model, it's about the entire journy, I am passionate about every step of the data pipeline:
 
 Form the initial challenge of collecting and wrangling raw data, to careful process of cleaning and exploring it to find hidden patterns. From there, I enjoy building and fine-tuning a powerful machine learning model, and finally, creating clear, compelling visualizations that bring the insights. So, I invite you to visit my Projects page to see my latest work.
