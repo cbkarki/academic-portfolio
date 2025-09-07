@@ -1,0 +1,2 @@
+The articles on interstiong and contemporaty topics on data science, visual demonstration of abstract concepts in statistics, machine learning for instance Law of large number, central 
+limit theorem goes into this are. Under Construction !! Be patient, will come with projects!
