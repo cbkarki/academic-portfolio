@@ -11,8 +11,8 @@ This app helps users see this idea in action through interactive sampling and vi
 Here is the <a href = https://github.com/cbkarki/Projects/tree/main/shiny_apps/central_limit_theorem_illustration> Shiny App</a>.
   </li>
 
-  <li> <h2> PI (&pi)</h2>
-  This Shiny application provides the approximation of &pi via monte carlo simulation. Comming Soon!!
+  <li> <h2> PI (π)</h2>
+  This Shiny application provides the approximation of π via monte carlo simulation. Comming Soon!!
     
   </li>
   
