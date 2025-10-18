@@ -1,4 +1,3 @@
-Research porjects are hosted here. Under construction! Start building the RobENetLog progess here.
 
 <h2>RobENetLog</h2>
 This is an R package for binary classification problems for both low and high dimensional highly correlated data. Two main objectives of this method are featrues selection and outliers detection.
