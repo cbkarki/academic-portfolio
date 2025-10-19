@@ -13,7 +13,7 @@ Here is the <a href = "https://github.com/cbkarki/Projects/tree/main/shiny_apps/
   </li>
 
   <li> <h2> PI (π)</h2>
-  <p>This Shiny application provides the approximation of π via monte carlo simulation. Comming Soon!!</p>
+  <p>This Shiny application provides the approximation of π via monte carlo simulation. Coming Soon!!</p>
     
   </li>
   
