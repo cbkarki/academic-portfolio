@@ -8,7 +8,7 @@ It simpler words, regardless of the shape of the population distribution, the di
 
 This app helps users see this idea in action through interactive sampling and visualization.
 
-Here is the <a href = https://github.com/cbkarki/Projects/tree/main/shiny_apps/central_limit_theorem_illustration> Shiny App</a>.
+Here is the <a href = "https://github.com/cbkarki/Projects/tree/main/shiny_apps/central_limit_theorem_illustration"> Shiny App</a>.
   </li>
 
   <li> <h2> PI (π)</h2>
