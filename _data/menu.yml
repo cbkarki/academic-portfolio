@@ -8,11 +8,11 @@
   href: "/projects/"
   subcategories:
     - subtitle: "Research Projects"
-      subhref: "/projects/researchprojects/"
+      subhref: "/projects/researchprojects"
     - subtitle: "Data Projects"
-      subhref: "/projects/dataprojects/"
+      subhref: "/projects/dataprojects"
     - subtitle: "Academic Projects"
-      subhref: "/projects/academicprojects/"
+      subhref: "/projects/academicprojects"
 
 #- title: "Blog"
  # href: "/blog/"
