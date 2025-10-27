@@ -12,11 +12,10 @@ The site showcases my research, teaching, publications, and projects in **data s
 ## 📖 About This Site
 
 The portfolio provides:
-- **Research**: Current projects in robust machine learning, bioinformatics, and computational biology.  
-- **Teaching**: My teaching philosophy, sample syllabi, and classroom practices.  
+- **Research**: Current projects in robust machine learning, bioinformatics, and computational biology.   
 - **Publications**: Peer-reviewed articles, preprints, and conference presentations.  
-- **Projects**: Open-source tools (e.g., `geneVizR`, `protFlex`) and applied R/Python workflows.  
-- **Downloads**: CV, teaching statement, research statement, and other application documents.  
+- **Projects**: Open-source tools and applied R/Python workflows.  
+- **Downloads**: CV
 
 ---
 
