@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-
 ---
 
 Here is a non-exhaustive list of my diverse projects. My research work can be found <a href="research/">here</a>. You can also check out my Github profile <a href="https://github.com/cbkarki">here</a> for a complete list of my projects.
@@ -21,8 +20,8 @@ Here is a non-exhaustive list of my diverse projects. My research work can be fo
 -->
 
 <ul>
-	<li><a href="projects/researchprojects">Research Projects</a> - A list of Research Pojects.</li>
-	<li><a href="projects/dataprojects">Data Projects</a> - Data Science Piplines on real-world data.</li>
-	<li><a href="projects/academicprojects">Academic Projects</a> - Educational Projects, demistifying complex concepts.</li>
+	<li><a href="researchprojects">Research Projects</a> - A list of Research Pojects.</li>
+	<li><a href="dataprojects">Data Projects</a> - Data Science Piplines on real-world data.</li>
+	<li><a href="academicprojects">Academic Projects</a> - Educational Projects, demistifying complex concepts.</li>
 </ul>
 
