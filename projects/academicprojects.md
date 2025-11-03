@@ -14,7 +14,7 @@ Here is the <a href = "https://github.com/cbkarki/Projects/tree/main/shiny_apps/
 
   <li> <h2> PI (π)</h2>
   <p>
-    An R Shiny project that uses a Monte Carlo simulation to estimate the value of π. The application generates a user-defined number of random points within a square and calculates the ratio of points that fall within an inscribed circle, providing a real-time, visual approximation of π). For simplicity the demostration is performed in quarter circle in first quardent.
+    An R Shiny project that uses a Monte Carlo simulation to estimate the value of π. The application generates a user-defined number of random points within a square and calculates the ratio of points that fall within an inscribed circle, providing a real-time, visual approximation of π. For simplicity the demostration is performed in quarter circle in first quardent.
 
   Here is the <a href = "https://github.com/cbkarki/Projects/tree/main/shiny_apps/PI%20Monte%20Carlo"> Shiny App</a>
   </p>
