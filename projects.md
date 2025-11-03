@@ -21,7 +21,7 @@ Here is a non-exhaustive list of my diverse projects. My research work can be fo
 
 <ul>
 	<li><a href="/projects/researchprojects.md">Research Projects</a> - A list of Research Pojects.</li>
-	<li><a href="dataprojects">Data Projects</a> - Data Science Piplines on real-world data.</li>
-	<li><a href="academicprojects">Academic Projects</a> - Educational Projects, demistifying complex concepts.</li>
+	<li><a href="/projects/dataprojects.md">Data Projects</a> - Data Science Piplines on real-world data.</li>
+	<li><a href="/projects/academicprojects.md">Academic Projects</a> - Educational Projects, demistifying complex concepts.</li>
 </ul>
 
