@@ -7,6 +7,15 @@ title: Research
 My research lies at the intersection of Statistics, Data Science, Machine Learning and Computational Biology focusing on robust methodological development and applications, and pathegone related data analysis. 
 Specially, I am developing robust elasticnet logistic regression framework to handle multi-collinear high-dimensional data with contaminations. Alongside methodology, I have worked extensively with molecular dynamics simulations to study pathogene related proteins and their interactions to understand their virulance mechanisms.
 
+<h2>Ongoing Projects</h2>
+<ol> 
+	<li> <strong>Methodological</strong>: (Manuscript in preparation) RobENetLog: A robust elastic-net logistic regression framework integrating
+feature- and response-space outlyingness for high-dimensional contaminated data (with Dr. Xiaogang Su).</li>
+	<li> <strong> Applied Machine Learning: </strong> Building predictive models (Logistic Regression, Random Forest, SVM, ANN, etc.) to investigate the effects of point mutation on protein binding energy (with Dr. Xiaogang Su, Dr. Lin Li).</li>
+	<li> <strong> Predictive Analytics: </strong> Developing predictive models, ensembles, and survival analyses to improve graduate student retention and graduation outcomes at UTEP (with Dr. Xiaogang Su, Dr. Stephen Crites)</li>
+	
+</ol>
+
 <h2> Research Publications </h2>
 <h3>Date Science | Statistics | ML</h3>
 <ol>
@@ -30,10 +39,3 @@ Specially, I am developing robust elasticnet logistic regression framework to ha
   <li>(Cover figure paper) Xian, Yuejiao†, <strong>Chitra B Karki</strong>†, Sebastian Miki Silva, Lin Li, and Chuan Xiao. "The Roles of Electrostatic Interactions in Capsid Assembly Mechanisms of Giant Viruses." <em>International journal of molecular sciences</em> 20, no. 8, 2019 († these authors contribute equally).</li>
 </ol>
 
-<h2>Ongoing Projects</h2>
-<ol> 
-	<li> <strong>Methodological</strong>: Evaluating performance of the robust elastic-net logistic regression framework via comprehensive simulation studies (with Dr. Xiaogang Su).</li>
-	<li> <strong> Applied Machine Learning: </strong> Building predictive models (Logistic Regression, Random Forest, SVM, ANN, etc.) to investigate the effects of point mutation on protein binding energy (with Dr. Xiaogang Su, Dr. Lin Li).</li>
-	<li> <strong> Predictive Analytics: </strong> Developing predictive models, ensembles, and survival analyses to improve graduate student retention and graduation outcomes at UTEP (with Dr. Xiaogang Su, Dr. Stephen Crites)</li>
-	
-</ol>
